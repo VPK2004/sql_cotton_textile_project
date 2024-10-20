@@ -1,4 +1,4 @@
-# sql_Cotton_Textile_Management_System_project
+# sql_cotton_textile_management_system_project
 
 Project Overview
 
